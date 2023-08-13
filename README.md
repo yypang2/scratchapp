@@ -1,7 +1,7 @@
 # Scratch: A Complete Introduction
 
 ## 1. Overview
-Scratch is a free programming language and online community developed by the MIT Media Lab. It allows users, particularly young learners, to create their own interactive stories, games, animations, and simulations. Scratch was designed with the goal of introducing coding concepts in a way that promotes creative thinking and collaborative learning.
+Scratch is a free programming language and online community developed by the [MIT Media Lab](https://scratch.mit.edu/). It allows users, particularly young learners, to create their own interactive stories, games, animations, and simulations. Scratch was designed with the goal of introducing coding concepts in a way that promotes creative thinking and collaborative learning.
 
 ## 2. The Scratch Environment
 - **Stage**: This is the area where all the action happens. As you add code to your sprites, they will interact on this stage.
@@ -49,10 +49,11 @@ Scratch is a free programming language and online community developed by the MIT
 ## 7. Conclusion
 Scratch is not just a coding platform; it's a canvas for creativity and a playground for ideas. By abstracting away the complexities of traditional programming, it offers a stepping stone into the world of digital creation, making coding accessible and fun for everyone. Whether you're a teacher, student, or just curious about coding, Scratch offers an engaging way to begin your journey.
 
+##
 # Scratch: Pengenalan Lengkap
 
 ## 1. Gambaran Keseluruhan
-Scratch ialah bahasa pengaturcaraan percuma dan komuniti dalam talian yang dibangunkan oleh MIT Media Lab. Ia membolehkan pengguna, terutamanya pelajar muda, untuk mencipta kisah interaktif, permainan, animasi, dan simulasi sendiri. Scratch direka dengan tujuan memperkenalkan konsep pengaturcaraan dengan cara yang menggalakkan pemikiran kreatif dan pembelajaran kolaboratif.
+Scratch ialah bahasa pengaturcaraan percuma dan komuniti dalam talian yang dibangunkan oleh [MIT Media Lab](https://scratch.mit.edu/). Ia membolehkan pengguna, terutamanya pelajar muda, untuk mencipta kisah interaktif, permainan, animasi, dan simulasi sendiri. Scratch direka dengan tujuan memperkenalkan konsep pengaturcaraan dengan cara yang menggalakkan pemikiran kreatif dan pembelajaran kolaboratif.
 
 ## 2. Persekitaran Scratch
 - **Pentas**: Ini adalah kawasan di mana semua tindakan berlaku. Apabila anda menambah kod kepada sprite anda, mereka akan berinteraksi di pentas ini.
@@ -99,4 +100,6 @@ Scratch ialah bahasa pengaturcaraan percuma dan komuniti dalam talian yang diban
 
 ## 7. Kesimpulan
 Scratch bukan sahaja platform pengaturcaraan; ia adalah kanvas untuk kreativiti dan tempat bermain untuk idea. Dengan mengabstrakkan kesukaran pengaturcaraan tradisional, ia menawarkan batu loncatan ke dunia penciptaan digital, menjadikan pengaturcaraan mudah diakses dan menyeronokkan untuk semua. Sama ada anda seorang guru, pelajar, atau hanya ingin tahu tentang pengaturcaraan, Scratch menawarkan cara yang menarik untuk memulakan perjalanan anda.
+
+[Sample Scratch App](https://scratch.mit.edu/projects/882179603/)
 
