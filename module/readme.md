@@ -1,3 +1,5 @@
+[View This Scratch Project](https://scratch.mit.edu/projects/882179603/)
+
 ## Scratch code for main logic step-by-step:
 
 1. **Initialization:**
